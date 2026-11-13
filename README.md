@@ -16,7 +16,7 @@ text-generator/
 ├── predict.py               # Interactive terminal script to test inputs and view outputs
 ├── lstm_model.keras         # Pre-trained LSTM model weights
 ├── tokenizer.pkl            # Saved Keras tokenizer
-├── text_generator.ipynb           # Original Jupyter Notebook used for experimentation
+├── text_generator.ipynb     # Original Jupyter Notebook used for experimentation
 ├── requirements.txt         # Required Python libraries (tensorflow, numpy)
 └── README.md                # Project documentation and setup guide
 ```
