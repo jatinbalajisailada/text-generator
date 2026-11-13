@@ -57,10 +57,17 @@ python train.py
 
 ## Sample Inputs to Try
 Since the model is trained on the CampusX Data Science Mentorship Program FAQ dataset, try these starting phrases and word counts for clean predictions:
+
 `"What is the total duration"` (Predict 3 words → of the course)
+
 `"Where can I find"` (Predict 3 words → the class schedule)
+
 `"How will I be informed"` (Predict 4 words → about the upcoming class)
+
 `"You have to make all your"` (Predict 5 words → monthly payments on our website)
+
 `"What is the criteria"` (Predict 4 words → to get the certificate)
+
 `"You get a 7 days"` (Predict 2 words → refund period)
+
 `"We will be covering"` (Predict 3 words → the following modules)
